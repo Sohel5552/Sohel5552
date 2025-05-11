@@ -5,6 +5,7 @@ Welcome to my GitHub profile! I'm passionate about learning and building amazing
 👀 I’m interested in
 - Android development
 - Kotlin programming
+- Jetpack Compose
 - Open-source projects
 - UI/UX design for mobile apps
 
